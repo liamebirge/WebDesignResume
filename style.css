@@ -1,0 +1,32 @@
+header{
+	text-align: center;
+}
+#projTable{
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+}
+#projTable td{
+	padding:5px;
+}
+.projectLink{
+	text-align: center;
+}
+.projImg img{
+	height:auto;
+	width:400px;
+}
+button{
+	color:black;
+	background: none;
+	border:none;
+	width:200px;
+	height:200px;
+}
+button:hover{
+	color:black;
+	background: rgba(0, 0, 0, 0.2);
+}
+.projDescription{
+	min-width:200px;
+}
